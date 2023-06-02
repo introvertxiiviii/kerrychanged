@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+div{
+width: 50%;
+margin-top: 200px;
+margin-left: 25%;
+text-align: center;
+
+}
+
+.motivatonwow{
+    width: 100%;
+    border: solid white 5px;
+}
+h1{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+p{
+    color: white;
+}
